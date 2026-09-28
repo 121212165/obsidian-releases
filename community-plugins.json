@@ -1,5 +1,12 @@
 [
   {
+    "id": "clipping-finder",
+    "name": "Clipping Finder",
+    "author": "121212165",
+    "description": "Search your web clippings and methodology notes by keyword, then insert a link or the matching passage at the cursor.",
+    "repo": "121212165/obsidian-clipping-finder"
+  },
+  {
     "id": "hotkeysplus-obsidian",
     "name": "Hotkeys++",
     "author": "argenos",
