@@ -63159,5 +63159,12 @@
     "author": "Agata Dalach",
     "description": "Checklists that aren't tasks: tick \"- ( )\" items with a progress bar and heading counts, while task plugins ignore them. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "adalach/obsidian-checkboxes"
+  },
+  {
+    "id": "mass-replace",
+    "name": "Mass Replace",
+    "author": "121212165",
+    "description": "Vault-wide find and replace with regex support, per-file match preview, selective apply, automatic .bak backups and undo of any of the last 5 replace rounds. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "121212165/obsidian-mass-replace"
   }
 ]
