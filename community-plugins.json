@@ -63159,5 +63159,12 @@
     "author": "Agata Dalach",
     "description": "Checklists that aren't tasks: tick \"- ( )\" items with a progress bar and heading counts, while task plugins ignore them. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "adalach/obsidian-checkboxes"
+  },
+  {
+    "id": "vault-doctor",
+    "name": "Vault Doctor",
+    "author": "121212165",
+    "description": "Link health center for your vault: scan broken links, orphan notes and dangling attachments in one dashboard, create missing notes with one click, and ignore false positives. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "121212165/obsidian-vault-doctor"
   }
 ]
