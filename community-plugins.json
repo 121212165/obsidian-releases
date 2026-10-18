@@ -63439,5 +63439,61 @@
     "author": "kastor",
     "description": "Sync your vault through your own ovaultd server: end-to-end encrypted, revision-based, no third parties. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kastormdz/ovaultd-plugin"
+  },
+  {
+    "id": "ai-flavor-checker",
+    "name": "AI Flavor Checker",
+    "author": "121212165",
+    "description": "Chinese prose style checker with configurable presets (fiction / general / social-media copy) and vault-based custom word lists: flags AI-flavor phrases, told emotions and cliches, click-to-jump.",
+    "repo": "121212165/obsidian-ai-flavor-checker"
+  },
+  {
+    "id": "mass-replace",
+    "name": "Mass Replace",
+    "author": "121212165",
+    "description": "Vault-wide find and replace with regex support, per-file match preview, selective apply, automatic .bak backups and one-click undo of the last run.",
+    "repo": "121212165/obsidian-mass-replace"
+  },
+  {
+    "id": "daoyu-studio",
+    "name": "Daoyu Studio",
+    "author": "121212165",
+    "description": "Title generator and opening-paragraph (daoyu) checker for Chinese web-fiction: four style template libraries, fill-in title patterns, and a rules-based self-check scoring panel.",
+    "repo": "121212165/obsidian-daoyu-studio"
+  },
+  {
+    "id": "fanqie-drafter",
+    "name": "Fanqie Drafter",
+    "author": "121212165",
+    "description": "Send the active note (or selection) to your Fanqie writer draft box via a local batch.py CLI, with live progress. Requires the fanqie-draft-tool Playwright script.",
+    "repo": "121212165/obsidian-fanqie-drafter"
+  },
+  {
+    "id": "story-ledger",
+    "name": "Story Ledger",
+    "author": "121212165",
+    "description": "Growth-ledger for serialized fiction: register side characters, locations and open hooks into markdown tables, with a hook-reconciliation view that flags stale items.",
+    "repo": "121212165/obsidian-story-ledger"
+  },
+  {
+    "id": "qs8-panel",
+    "name": "QS-8 Score Panel",
+    "author": "121212165",
+    "description": "Weighted multi-dimension writing scoring: auto script metrics plus judgment sliders; dimension tables configurable for any genre.",
+    "repo": "121212165/obsidian-qs8-panel"
+  },
+  {
+    "id": "plugin-stats",
+    "name": "Plugin Stats",
+    "author": "121212165",
+    "description": "Download dashboard for your published plugins: GitHub release counts, daily snapshots with deltas, and official community-directory stats detection.",
+    "repo": "121212165/obsidian-plugin-stats"
+  },
+  {
+    "id": "vault-doctor",
+    "name": "Vault Doctor",
+    "author": "121212165",
+    "description": "Link health center for your vault: scan broken links, orphan notes and dangling attachments in one dashboard, create missing notes with one click, and ignore false positives.",
+    "repo": "121212165/obsidian-vault-doctor"
   }
 ]
